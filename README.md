@@ -21,7 +21,7 @@ This library builds upon concepts from Claude's code artifacts, particularly the
 To install the library, clone the repository and use pip:
 
 ```bash
-git clone https://github.com/your-repo/electrodiffusion.git  # Replace with actual repo URL
+git clone https://github.com/wonjinYang/electrodiffusion.git
 cd electrodiffusion
 pip install -e .  # Editable install for development
 ```
@@ -138,7 +138,7 @@ If you use this library in your research, please cite:
   title = {Electrodiffusion: A Library for Ion Channel Dynamics Modeling},
   month = aug,
   year = 2024,
-  url = {https://github.com/WonjinYang/electrodiffusion},
+  url = {https://github.com/wonjinYang/electrodiffusion},
   version = {0.1.0}
 }
 ```
